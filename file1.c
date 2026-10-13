@@ -1,0 +1,2 @@
+Změny v master vetvi
+
