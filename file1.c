@@ -1,3 +1,3 @@
-Změny v master vetvi
+Změny v nwe-branch
 
 Druha zmena 
